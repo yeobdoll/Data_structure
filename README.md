@@ -5,3 +5,4 @@ Basic Data Structure
 3. Deque, Linked list
 4. Sorting Algorithm, Searching Algorithm
 5. Tree, Heap
+6. Binary Search Tree
