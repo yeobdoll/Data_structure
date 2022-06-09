@@ -7,4 +7,4 @@ Basic Data Structure
 5. Tree, Heap
 6. Binary Search Tree
 7. AVL tree + Graph
-8. Adjacency Matrix & Adjacency List -> Modifying
+8. Adjacency Matrix & Adjacency List
